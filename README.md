@@ -11,9 +11,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a productivity helper**
+ 🔭 I’m currently working on **an AI-powered Mental health web appr**
  
- 🌱 I’m currently learning **REACT.js, PostgresSQL, MongoDB**
+ 🌱 I’m currently learning **HuggingFace, NoSQL, TailwindCSS**
 
  </div>
  
